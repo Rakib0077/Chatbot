@@ -47,7 +47,7 @@ An advanced AI chatbot built in Google Colab using PyTorch and Hugging Face Tran
 
 ## Run in Google Colab
 
-Upload the notebook to Google Colab and run all cells.
+Upload the proj1.py to Google Colab and run all cells.
 
 ## Author
 
